@@ -1,1 +1,2 @@
-# wallet-react
+# README
+
