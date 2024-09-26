@@ -1,0 +1,21 @@
+.menu {
+    background-color: white;
+    height: 50px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+    .logo {
+        max-height: 100%;
+        border-radius: 50%;
+        // border: 1px solid purple;
+    }
+}
+
+.menu-itens {
+    gap: 20px;
+    flex-direction: row;
+    display: flex;
+}
